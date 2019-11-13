@@ -1,0 +1,63 @@
+Week 1
+
+Day 1 & 2: OOPs Concepts {Object,Class,Inheritance,Polymorphism, Abstraction, Encapsulation, Aggregation, Composition}
+
+Day 3: Java Basic {Installation of JDK 1.8+ and get familiar with eclipse/visual studio code/IntelliJ IDEA }
+
+Day 4: Java Basic {DataType Primitive and Non-Primitive, Condition, Loop, Class, Interface, Array 1D, 2D, String operation}
+
+Day 5: Java Collection { ArrayList, LinkedList, hashmap, hashset, treeset, treemap, LinkedhashSet, Queue, Dequeue, hashtable}
+
+---------------------
+
+Week 2
+
+Day 1: Java Stream {FileInputStream, FileOutputStream, BufferInputStream, BufferOutputstream, Reader, writer, FileReader, FileWriter, StringReader, StringWriter etc.}
+
+Day 2: Java Multi threading {Life Cycle of thread, Thread scheduler, Start, sleep, resume a thread, Thread synchronization}
+
+Day 3: Java Exception Handling, Java Inner Class, Java Regex
+
+Day 4 : Logging framework {log4j, log4j2, sljf}, Appche common lang3, Apache common io, appache POI, apache pdfbox
+
+Day 5 : GIT/Bitbucket - commands to clone, branch, merge, sync/update and commit the changes & Gradle - create Projects, add dependencies libraries, dependent projects, create sub projects, create tasks for clean, build, deploy etc using command line commands as well as Eclipse.
+---------------------
+Week 3
+
+Day 1: Java Design pattern {Factory, Decoration, Singleton, Strategy, Iterator}
+
+Day 2: Spring framework concept, Install STC, Maven,Spring Dependency injection and configuration
+
+Day 3: Spring Boot + Spring REST services - REST Layer +Service Layer +DAO Layer etc
+
+Day 4: Spring JDBC + Spring JPA + Hibernate concept - Entities, Queries, Transactions etc
+
+Day 5: Spring AOP and Security Concept + Exception handling using AOP + Logging Using AOP
+
+---------------------
+Week 4
+
+Day 1: Implement Spring Actuator, Spring Log4j2, Going forward all below assignment should have Actuator and Spring Log4j2
+
+Day 2: Create a project to demonstrate Timer Functionality
+
+Day 3: Create a project to demonstrate File Poller Functionality
+
+Day 4: Spring Data JMS - Create a projected to demonstrated Queue Send/Receive
+
+Day 5: Create a projected to demonstrated Spring JMS Topic Publish and Subscribe Send/Receive
+
+---------------------
+
+Week 5
+
+Day 1: Setup a database with few tables
+
+Day 2: Spring Data REST (Implement Insert, Update and delete)
+
+Day 3: Spring Data REST (Different Select i.e., equal, contains, start-with etc. One end point to search by any parameter)
+
+Day 4: Spring Actuators - demonstrate the Micro services health and Metrics
+
+Day 5: Spring Service Registry + Eureka server + Zuul - Demonstrate inter-service communication
+---------------------

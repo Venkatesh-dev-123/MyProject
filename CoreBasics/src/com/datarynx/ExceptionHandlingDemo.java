@@ -8,6 +8,7 @@ public class ExceptionHandlingDemo {
 			System.out.println("firstline");
 			System.out.println("how are u");
 			System.out.println("last line");
+			System.out.println("No exception");
 		}catch(ArithmeticException e) {
 			e.printStackTrace();
 		}
